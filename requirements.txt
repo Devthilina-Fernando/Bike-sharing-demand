@@ -1,0 +1,4 @@
+jupyterlab
+mxnet<2.0.0
+autogluon
+pandas
